@@ -1,0 +1,6 @@
+pandas
+xlrd
+plot-likert
+wordcloud
+pingouin
+seaborn
